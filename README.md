@@ -3,7 +3,7 @@
 ### [Website](http://www.adriancourreges.com/projects/minicopier/)&nbsp;&nbsp;&nbsp;&nbsp;[Download](http://www.adriancourreges.com/projects/minicopier/#dl-section)&nbsp;&nbsp;&nbsp;&nbsp;
 
 MiniCopier is a graphical copy manager. It provides more comfort and control over file copy operations than basic OS functions.  
-You can use it to queue several transfers, resume a copy which has failed, limit the speed or pause the copy...  
+You can use it to queue several transfers, resume a copy which has failed, limit the speed or pause the copy.
 MiniCopier is multiplatform and supports Linux, Windows and MacOS X systems.
 
 ![screenshot-1](http://www.adriancourreges.com/projects/minicopier/minicopier-0.5-screen2.png)
