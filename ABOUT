@@ -10,7 +10,7 @@ http://www.adriancourreges.com/projects/minicopier/
 DESCRIPTION:
 ============
 
-MiniCopier intends to improve graphic copy/paste file operations on some popular OSes.
+MiniCopier tests intends to improve graphic copy/paste file operations on some popular OSes.
 Its features are closed to the ones of SuperCopier (Windows environment). 
 It lets you create a queue of transfers, so only a file is copied at a time.
 You can manage the queue by changing the position of any pending transfer.
