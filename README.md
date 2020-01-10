@@ -24,7 +24,7 @@ MiniCopier is multiplatform and supports Linux, Windows and MacOS X systems.
 
 
 ## Requirements
-
+sdd
 Java should be installed. (JRE 5.0 or later)
 
 ## License
